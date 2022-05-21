@@ -1,0 +1,13 @@
+#Command Prompt - python
+C:\Users>python
+   Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
+   Type "help", "copyright", "credits" or "license" for more information.
+C:\Users>pip --version
+pip 22.0.4 from C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.1264.0_x64__qbz5n2kfra8p0\lib\site-packages\pip (python 3.10)
+>>> pip install opencv-python
+Successfully installed
+>>>import cv2
+>>>print(cv2.__version__)
+4.5.5
+
+
